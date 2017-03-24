@@ -11,14 +11,14 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
-baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
+url: http://www.dongpeipei.xyz
+baseurl: 
+title: 小幸运
+author: PeiPei Dong
 description: Personal blog and resume
-avatar: profile.png
-email: yourname@email.com
-github: biomadeira/sustain # username
+avatar: dpp.png
+email: 1062976845@qq.com
+github: xiaodongpei.github.io # username
 twitter: username
 linkedin: username
 stackoverflow: username   #e.g: users/2735833/proton1h1
